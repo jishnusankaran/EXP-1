@@ -30,10 +30,11 @@ return certificates[certHash];
 }
 ```
 # Expected Output:
-![alt text](<Screenshot 2025-04-16 093249.png>)
-
-![alt text](<Screenshot 2025-04-16 093435.png>)
-
+![alt text](<Screenshot 2025-04-24 112134.png>)
+## TRUE
+![alt text](<Screenshot 2025-04-24 112216.png>)
+## FALSE
+![alt text](<Screenshot 2025-04-24 112240.png>)
  ● When the university issues a certificate, it gets stored as a hash. ● A student or employer can verify the certificate by entering the details. ● If valid, it returns true; otherwise, false. High-Level Overview: ● Used to prevent fake certificates. ● Enables quick verification by employers or other institutions. ● Shows how blockchain can be used in education and credential verification.
 # Result:
 
